@@ -1,0 +1,111 @@
+body{
+    margin:0px;
+    background-color: rgb(246, 231, 221);
+}
+
+header{
+    margin: 0px;
+    height: 150px;
+    align-items: center;
+    padding: auto;
+    background-image: url(cookie.jpg);
+    background-repeat: no-repeat;
+}
+
+nav{
+    margin-bottom: 10px;
+}
+
+nav ul{
+    margin: 0;
+    background-color: rgb(230, 230, 229);
+}
+
+nav li{
+    display: inline;
+    padding: 20px 30px;  
+}
+
+li a{
+    display: inline-block;
+    height: 40px;
+    text-align: justify;
+    text-decoration: none;
+    color: rgb(99, 98, 98);
+    
+}
+li a:hover{
+    background-color: rgb(99, 98, 98);
+    color: white;
+}
+
+
+#recipe{
+    background-color: rgb(188, 185, 178);
+}
+
+section{
+    margin: 0 auto;
+    width: 50% ;
+    height: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img{
+    width: 30% ;
+    height: 20%;
+}
+
+h1{
+    font-family: cursive;
+    font-style: italic;
+    text-align: center;
+}
+
+h2{
+    color: rgba(58, 31, 31, 0.95);
+}
+
+hr{
+    border-style: solid ;
+    border-width: thin ;
+    color: rgba(58, 31, 31, 0.95);
+}
+
+table{
+    width: 100% ;
+    margin: auto;
+}
+
+th{
+    margin: 0px;
+    border-radius: 5px 5px 0px 0px;
+    background-color: gray;
+    color: white;
+}
+
+td{
+    background-color: lightgray;
+}
+
+th, td{
+    height: 30px;
+    padding: 5px;
+}
+footer{
+    margin: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
